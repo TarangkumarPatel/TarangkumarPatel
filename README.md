@@ -27,13 +27,13 @@ I am a software developer with a foundation in robust backend logic and a sharp 
 * **[Photography Portfolio](https://github.com/TarangkumarPatel/photography-portfolio):** A custom-built, minimalist frontend gallery bridging the gap between optics and code. Designed with responsive HTML/CSS to showcase professional captures with clean, high-performance image rendering. [View Live Demo](https://photography-portfolio-lilac-one.vercel.app/))
 ---
 
-## 📊 GitHub Analytics
+<!--## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TarangkumarPatel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Tarang's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarangkumarPatel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Tarang's Top Languages" />
 </div>
-
+-->
 ---
 
 ## 📫 Let's Connect

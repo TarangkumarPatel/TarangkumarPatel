@@ -35,7 +35,7 @@ I am a software developer with a foundation in robust backend logic and a sharp 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarangkumarPatel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Tarang's Top Languages" />
 </div>
----
+
 
 ## 📫 Let's Connect
 

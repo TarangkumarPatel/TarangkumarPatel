@@ -26,16 +26,27 @@ I am a software developer with a foundation in robust backend logic and a sharp 
 * **[Calculator with Cypress E2E](https://github.com/TarangkumarPatel/calculator-with-cypressTest-and-CI):** A JavaScript application demonstrating robust testing methodologies using Cypress for End-to-End testing and continuous integration pipelines. [View Live Demo](https://calculator-with-cypress-test-and-ci.vercel.app/)
 * **[Photography Portfolio](https://github.com/TarangkumarPatel/photography-portfolio):** A custom-built, minimalist frontend gallery bridging the gap between optics and code. Designed with responsive HTML/CSS to showcase professional captures with clean, high-performance image rendering. [View Live Demo](https://photography-portfolio-lilac-one.vercel.app/))
 ---
-
+<!-- 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarangkumarPatel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Tarang's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TarangkumarPatel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Tarang's GitHub Stats" /> -->
 
 <!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarangkumarPatel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Tarang's Top Languages" />
 </div>
 -->
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarangkumarPatel&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=TarangkumarPatel&theme=github-dark-blue&hide_border=true" height="165" />
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TarangkumarPatel&theme=github-compact&hide_border=true&area=true" width="100%" />
+
+
 
 ## 📫 Let's Connect
 

@@ -44,7 +44,7 @@ I am a software developer with a foundation in robust backend logic and a sharp 
   <img src="https://streak-stats.demolab.com/?user=TarangkumarPatel&theme=github-dark-blue&hide_border=true" height="165" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TarangkumarPatel&theme=github-compact&hide_border=true&area=true" width="100%" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=TarangkumarPatel&theme=github-compact&hide_border=true&area=true" width="100%" /> -->
 
 
 

@@ -21,10 +21,11 @@ I am a software developer with a foundation in robust backend logic and a sharp 
 
 ## 🚀 Featured Engineering Projects
 
-* **[Library Management System](https://github.com/TarangkumarPatel/library-management-system):** A secure, full-stack RESTful API built with Node.js/Express. Features stateless JWT authentication, persistent data storage with MongoDB, and real-time personalized collections. [View Live Demo](https://library-management-system-five-delta.vercel.app)
-* **[Spotify UI Clone](https://github.com/TarangkumarPatel/spotify-clone):** A high-fidelity frontend architecture clone focusing on complex CSS grid/flexbox layouts, custom media controls, and a minimalist "Dark Mode" aesthetic. [View Live Demo](https://spotify-clone-virid-eta.vercel.app)
+* **[Portfolio](https://github.com/TarangkumarPatel/portfolio):** My personal portfolio, built with Next.js. An experience covering Home, About, Work, Life, and Contact, with a Firebase-backed admin panel for managing projects and incoming messages. [View Live Demo](https://portfolio-tarangkumar-patel.vercel.app/)
+* **[Library Management System](https://github.com/TarangkumarPatel/library-management-system):** A secure, full-stack RESTful API built with Node.js/Express. Features stateless JWT authentication, persistent data storage with MongoDB, and real-time personalized collections. [View Live Demo](https://library-management-system-five-delta.vercel.app/)
+* **[Spotify UI Clone](https://github.com/TarangkumarPatel/spotify-clone):** A high-fidelity frontend architecture clone focusing on complex CSS grid/flexbox layouts, custom media controls, and a minimalist "Dark Mode" aesthetic. [View Live Demo](https://spotify-clone-with-youtube-api.vercel.app/)
 * **[Calculator with Cypress E2E](https://github.com/TarangkumarPatel/calculator-with-cypressTest-and-CI):** A JavaScript application demonstrating robust testing methodologies using Cypress for End-to-End testing and continuous integration pipelines. [View Live Demo](https://calculator-with-cypress-test-and-ci.vercel.app/)
-* **[Photography Portfolio](https://github.com/TarangkumarPatel/photography-portfolio):** A custom-built, minimalist frontend gallery bridging the gap between optics and code. Designed with responsive HTML/CSS to showcase professional captures with clean, high-performance image rendering. [View Live Demo](https://photography-portfolio-lilac-one.vercel.app/))
+* **[Shutter Studio](https://github.com/TarangkumarPatel/shutter-studio):** A custom-built, minimalist frontend gallery bridging the gap between optics and code. Designed with responsive HTML/CSS to showcase professional captures with clean, high-performance image rendering. [View Live Demo](https://shutter-studio-portfolio.vercel.app/)
 ---
 <!-- 
 ## 📊 GitHub Analytics

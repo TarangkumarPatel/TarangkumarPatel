@@ -41,8 +41,8 @@ I am a software developer with a foundation in robust backend logic and a sharp 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarangkumarPatel&layout=compact&theme=github_dark&hide_border=true" height="165" />
-  <!-- <img src="https://streak-stats.demolab.com/?user=TarangkumarPatel&theme=github-dark-blue&hide_border=true" height="165" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarangkumarPatel&layout=compact&theme=github_dark&hide_border=true" height="165" /> -->
+  <img src="https://streak-stats.demolab.com/?user=TarangkumarPatel&theme=github-dark-blue&hide_border=true" height="165" />
 </p>
 
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=TarangkumarPatel&theme=github-compact&hide_border=true&area=true" width="100%" />  -->
